@@ -1,6 +1,6 @@
 #  AOS Assignment 2
 
-An example how to run tracker and peer:
+An example showing how to run tracker and peer:
 
 ### For Tracker:
 
